@@ -13,3 +13,22 @@
 .externalNativeBuild
 .cxx
 local.properties
+# IDE
+.idea/
+.kotlin/
+
+# Gradle / build
+.gradle/
+build/
+**/build/
+
+# Local machine config
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db

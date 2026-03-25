@@ -2,7 +2,6 @@
 音声で日記を記録し、花として成長するアプリ
 Voice-based diary app where your words grow into a flower through interactive UI/UX.
 
-![ハナキデモ](hanakigif.gif)
 # Hanaki - Voice Diary App 🌸
 
 A voice-based diary app where your words and emotions grow into a flower.
@@ -16,6 +15,8 @@ Hanaki is an Android application that transforms daily voice recordings into a v
 Instead of simply storing text, this app focuses on **emotional expression and UX**, allowing users to "water" a flower with their voice and watch it grow over time.
 
 ---
+## 🎥 Demo
+![ハナキデモ](hanakigif.gif)
 
 ## ✨ Features
 

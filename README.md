@@ -1,10 +1,13 @@
-# hanaki-voice-diary
-音声で日記を記録し、花として成長するアプリ
-Voice-based diary app where your words grow into a flower through interactive UI/UX.
-
 # Hanaki - Voice Diary App 🌸
 
-A voice-based diary app where your words and emotions grow into a flower.
+音声で日記を記録し、言葉と感情が花として成長する体験型アプリです。  
+Hanaki is an Android voice diary app where your words and emotions grow into a flower through interactive UI/UX.
+
+---
+
+## 🎥 Demo
+
+![Hanaki Demo](hanakigif.gif)
 
 ---
 
@@ -12,33 +15,32 @@ A voice-based diary app where your words and emotions grow into a flower.
 
 Hanaki is an Android application that transforms daily voice recordings into a visual growth experience.
 
-Instead of simply storing text, this app focuses on **emotional expression and UX**, allowing users to "water" a flower with their voice and watch it grow over time.
+Instead of simply storing text, this app focuses on emotional expression and UX.  
+Users "water" a flower with their voice, select emotions, and watch the flower grow over time.
 
 ---
-## 🎥 Demo
-![ハナキデモ](hanakigif.gif)
 
 ## ✨ Features
 
-- 🎤 Voice recording diary
-- 🌱 Growth system based on input (voice & emotions)
-- 🎨 Emotion selection UI
-- 💧 "Watering" animation linked to user input
-- 📦 Archive of past entries
+- Voice recording diary
+- Flower growth system based on voice input and emotions
+- Emotion selection UI
+- Watering animation linked to user input
+- Archive of past entries
 
 ---
 
 ## 🧠 Concept
 
-This app is designed around the idea that:
+This app is designed around the idea:
 
-> "Your words are not just recorded — they are remembered and grown."
+> “Your words are not just recorded — they are remembered and grown.”
 
 - Voice input → Water
 - Emotion → Growth variation
 - Daily use → Flower lifecycle
 
-The goal is to create a **natural, intuitive UX** where users understand the system without explanation.
+The goal is to create a natural and intuitive UX that feels understandable without heavy explanation.
 
 ---
 
@@ -47,31 +49,32 @@ The goal is to create a **natural, intuitive UX** where users understand the sys
 - Kotlin
 - Jetpack Compose
 - MVVM Architecture
+- Room
 - Android Studio
 
 ---
 
-## 🎥 Demo
+## ✅ Current Status
 
-※ Add screenshots or GIF here
+Implemented:
+- Basic voice diary flow
+- UI/UX animation for watering and flower interaction
+- Emotion selection flow
+- Local data layer with Room
 
----
-
-## 🚀 Future Improvements
-
-- AI transcription (Gemini / Speech API)
+Planned / In Progress:
+- AI transcription
 - Cloud sync
-- Monetization (premium flowers / backgrounds)
+- Premium flowers / backgrounds
 - Seasonal variations
 
 ---
 
-## 📌 Why I built this
+## 🎯 Why I built this
 
-I wanted to explore how **UX and emotional interaction** can be integrated into a simple app like a diary.
+I wanted to explore how UX and emotional interaction can be integrated into a diary app.
 
 Rather than focusing only on functionality, this project emphasizes:
-
 - User experience design
 - Animation-driven interaction
 - Intuitive flow without heavy explanation
@@ -80,12 +83,12 @@ Rather than focusing only on functionality, this project emphasizes:
 
 ## ⚠️ Note
 
-This project is under development.
-
+This project is still under development.  
 Some features may be incomplete or subject to change.
 
 ---
 
 ## 📄 License
 
-No license (for portfolio use)
+This repository is published for portfolio purposes.  
+No reuse license is currently granted.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319078730626",
+    "project_id": "choronos-306b0",
+    "storage_bucket": "choronos-306b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319078730626:android:5726ebb2ca656c98df5d9b",
+        "android_client_info": {
+          "package_name": "com.example.chronos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOIXYLuzIWeqorVIU63WPEHcwb7bxR_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
